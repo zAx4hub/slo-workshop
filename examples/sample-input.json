@@ -1,0 +1,8 @@
+{
+  "sloTarget": 0.999,
+  "points": [
+    { "ts": 1720000000000, "good": 998, "total": 1000, "latencyMs": 90 },
+    { "ts": 1720003600000, "good": 990, "total": 1000, "latencyMs": 140 },
+    { "ts": 1720007200000, "good": 970, "total": 1000, "latencyMs": 220 }
+  ]
+}
